@@ -1,0 +1,42 @@
+body{
+    background: orange;
+    font-family:'Arial', sans-serif;
+	font-size:14px;
+}
+#container{
+    background: lightblue;
+    margin: 20px auto;
+    padding: 25px;
+    width: 60%;
+    overflow: auto;
+}
+header{
+    text-align: center;
+    border-bottom: white dashed 1px;
+}
+header p{
+    margin-top:5px;
+}
+section{
+	min-height:400px;
+}
+#button{
+    background: orange;
+    color:white;
+    padding: 10px;
+    border: 0;
+    cursor:pointer; 
+}
+footer{
+	text-align:center;
+}
+#results h3{
+	background:#f06226;
+	padding:10px;
+	margin:10px 0;
+}
+
+#results span{
+	color:#000;
+	font-weight:bold;
+}
